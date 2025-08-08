@@ -100,7 +100,7 @@ static int numOfFogNodesPerArea = 2;
 
 ### Basic Execution:
 ```bash
-java -cp .:ifogsim.jar EnergyAwareFogSimulation
+java -cp .:ifogsim.jar EnergyAwareFogAnalysis
 ```
 
 *This project demonstrates cutting-edge fog computing concepts with practical implementation and comprehensive evaluation, positioning it for high academic achievement.* 
