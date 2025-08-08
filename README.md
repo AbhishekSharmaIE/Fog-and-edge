@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements an energy-aware fog computing simulation based on the research paper "Energy Aware Fog-enabled green IoT networks" (2024). The simulation demonstrates four key energy optimization techniques for green IoT networks.
 
-**Course:** H9FEC: Fog and Edge Computing  
+**Course:**  Fog and Edge Computing  
 
 
 ## Research Paper Analysis
